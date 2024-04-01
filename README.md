@@ -4,6 +4,7 @@
  It utilizes shift registers to store the previous x and y coordinates and compares the current and previous coordinates to determine if they form a square shape. 
  The width of the coordinates is set to 4 bits, allowing for four possible combinations: (0,0), (0,1), (1,0), and (1,1).
 
+![image](https://github.com/Abhirecket/Square-Shape-Detector/assets/46784291/7830a9c3-c2c6-4c50-a1dc-e05ea671fec1)
 
 
 
