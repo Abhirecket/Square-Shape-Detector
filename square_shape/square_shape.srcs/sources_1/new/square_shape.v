@@ -27,7 +27,7 @@ module square_shape
     output square_detect_o
     );
     
-localparam WIDTH = 4; // cordinate for quare is (0,0) (0,1)(1,0) and (1,1) 4 possible combination.   
+localparam WIDTH = 4; // cordinate for square is (0,0) (0,1)(1,0) and (1,1) 4 possible combination.   
 reg [WIDTH-1 :0] shift_x;
 reg [WIDTH-1 :0] shift_y;
 wire [WIDTH-1 :0] shift_nxt_x;
